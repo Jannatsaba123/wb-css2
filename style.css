@@ -1,0 +1,31 @@
+*{
+    background-color: burlywood
+}
+h1{
+    background-color: cyan;
+    color: black
+}
+h2{
+    background-color: azure;
+    color: crimson
+}
+h3{
+    background-color: rgb(240,240,240);
+    color: chocolate
+}
+#para1{
+    background-color: lightcoral;
+    color: blueviolet
+        
+}
+#para2{
+    background-color: bisque;
+    color: fuchsia
+}
+#span1{
+    background-color: tomato;
+    color: darkmagenta
+}
+#span2{
+    border: 3px solid red
+}
